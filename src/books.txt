@@ -1,0 +1,12 @@
+Harry Potter and the Socerer's Stone, J.K. Rowling, Fantasy,0,2016-12-12, 1
+Harry Potter and the Chamber of Secrets, J.K. Rowling, Fantasy,0,2016-12-11, 0
+Harry Potter and the Prisoner of Azkaban, J.K. Rowling, Fantasy,0,2016-12-10, 1
+Harry Potter and the Golbet of Fire, J.K. Rowling, Fantasy,0,2016-12-9, 1
+Harry Potter and Order of the Pheonix, J.K. Rowling, Fantasy,0,2016-12-8, 1
+Harry Potter and the Half-Blood Prince, J.K. Rowling, Fantasy,0,2016-12-7, 1
+Harry Potter and the Deathly Hallows, J.K. Rowling, Fantasy,0,2016-12-6, 1
+In Search of Lost Time, Marcel Proust, Non-Fiction
+Ulysses, James Joyce, Non-Fiction,0,2016-12-5,1
+Moby Dick, Herman Melville, Fiction,0,2016-12-4,1
+Freakonomics, Stephen Dubner, Education,0,2016-12-3,1
+Art of War, Sun Tzu, Philosophy,0,2016-12-2,1

@@ -1,9 +1,16 @@
 
-public abstract class LibraryItem {
+public  class LibraryItem {
 	private String title;
 	private String author;
 	private status status;
 	private String dueDate;
+	
+	public LibraryItem(String title){ //, String author, status status, String dueDate) {
+		this.title = title;
+	//	this.author = author;
+	//	this.status = status;
+	//	this.dueDate = dueDate;
+	}
 	
 	public String getTitle() {
 		return title;
